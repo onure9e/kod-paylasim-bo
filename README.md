@@ -1,1 +1,1 @@
-# kod-paylasim-bo
+Bu proje geri çekilmiştir.
